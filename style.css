@@ -10,7 +10,7 @@
 
     .hero,
     .cta {
-      background: url(/assets/Mesa\ de\ trabajo\ 1.png), linear-gradient(52deg, #898989f5 0%, #20222efb 80%);
+      background: url(logo.png), linear-gradient(52deg, #898989f5 0%, #20222efb 80%);
       background-repeat: no-repeat;
       background-position: center;
       width: 100%;
